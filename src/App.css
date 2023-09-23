@@ -25,14 +25,14 @@ h1{
   margin: 10px auto;
 }
 
-form, .todo {
+.form, .todo {
   padding: 15px 20px;
   margin: 10px 15px;
   background-color: white;
   border-radius: 10px;
   box-shadow: 1px 1px 1px 1px rgba(52, 52, 50, 0.1)
 }
-form {
+.form {
   display: flex;
   justify-content: space-between;
   margin-bottom: 30px;
